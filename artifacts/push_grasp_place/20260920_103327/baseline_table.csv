@@ -1,0 +1,2 @@
+layout,success,primitive_success,primitive_count,primitive_steps,replan_count,target_displacement,elapsed_sec,target_initial,target_final
+occluded_block,True,True,8,188,0,0.2695,3.761346,"[0.0, 0.0, 0.02]","[0.2522, -0.0951, 0.02]"

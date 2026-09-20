@@ -1,0 +1,6 @@
+layout,success,primitive_success,primitive_count,primitive_steps,replan_count,target_displacement,elapsed_sec,target_initial,target_final
+occluded_block,True,True,8,188,0,0.2695,3.979661,"[0.0, 0.0, 0.02]","[0.2522, -0.0951, 0.02]"
+against_wall,True,True,7,188,0,0.4454,3.598634,"[0.03, 0.26, 0.02]","[-0.2472, -0.0886, 0.02]"
+narrow_gap,True,True,7,188,0,0.3004,3.921323,"[-0.02, 0.02, 0.02]","[0.2271, 0.1909, 0.02]"
+rotated_object,True,True,7,238,0,0.3813,4.63501,"[0.12, 0.05, 0.02]","[-0.2537, 0.126, 0.03]"
+multi_obstacle,True,True,7,188,0,0.3092,4.075101,"[0.02, 0.04, 0.02]","[0.2297, -0.1873, 0.02]"
